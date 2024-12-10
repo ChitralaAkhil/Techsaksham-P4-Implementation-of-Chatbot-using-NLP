@@ -1,0 +1,162 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "Good morning",
+            "Good evening",
+            "How are you?",
+            "What's up?",
+            "How's it going?"
+        ],
+        "responses": [
+            "Hello! How can I assist you with your studies today?",
+            "Hi there! How can I help you with your learning?",
+            "Good day! What can I do for your education needs?",
+            "Hey! How’s everything going with your studies?",
+            "Hello! What can I help you with today?"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "Goodbye",
+            "See you later",
+            "Take care",
+            "Catch you later",
+            "See you soon"
+        ],
+        "responses": [
+            "Goodbye! Good luck with your studies!",
+            "Take care! Stay focused and keep learning!",
+            "See you soon! Keep up the great work!",
+            "Goodbye, and come back anytime for more help!"
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "Thanks",
+            "Thank you",
+            "Thanks a lot",
+            "I appreciate it",
+            "You're the best",
+            "Thanks for your help"
+        ],
+        "responses": [
+            "You're welcome! Glad I could assist with your learning.",
+            "Happy to help with your studies!",
+            "Anytime! Don't hesitate to ask again.",
+            "I'm always here to support your learning!",
+            "No problem at all! Keep up the great work!"
+        ]
+    },
+    {
+        "tag": "about",
+        "patterns": [
+            "What is your purpose?",
+            "Who are you?",
+            "Tell me about you",
+            "What can you do?",
+            "What do you help with?"
+        ],
+        "responses": [
+            "I am an educational chatbot here to assist you with learning materials, answer questions, and provide study tips.",
+            "I help you with various subjects, provide study resources, and answer any questions you might have related to your education.",
+            "I’m here to support your learning journey, whether you need help with school subjects or general education advice.",
+            "I can help you with anything related to your studies, from homework to exam preparation!"
+        ]
+    },
+    {
+        "tag": "homework_help",
+        "patterns": [
+            "Can you help me with my homework?",
+            "I need help with my assignment",
+            "Can you solve this problem for me?",
+            "I don't understand my homework"
+        ],
+        "responses": [
+            "Sure! What’s the homework question? I'll guide you through it.",
+            "I can help with your assignment. What do you need help with?",
+            "Tell me about your homework, and I'll do my best to assist you.",
+            "I can help explain it! What part of your homework are you stuck on?"
+        ]
+    },
+    {
+        "tag": "study_tips",
+        "patterns": [
+            "Can you give me study tips?",
+            "How can I study better?",
+            "What’s the best way to prepare for exams?",
+            "Do you have any study advice?"
+        ],
+        "responses": [
+            "Make a study schedule, take regular breaks, and stay consistent!",
+            "Try active recall and spaced repetition. These are great for long-term memory.",
+            "Find a quiet place to study, and break your study sessions into manageable chunks.",
+            "Test yourself regularly, and don't forget to review your notes often."
+        ]
+    },
+    {
+        "tag": "subject_help",
+        "patterns": [
+            "Can you help me with math?",
+            "I need help with science",
+            "Explain history to me",
+            "I don't understand English grammar"
+        ],
+        "responses": [
+            "Of course! What topic in math are you struggling with?",
+            "Let’s dive into science. Which area are you studying?",
+            "I'd love to help with history. Which period are you focusing on?",
+            "I can help with grammar! What specific rule or concept do you need help with?"
+        ]
+    },
+    {
+        "tag": "test_preparation",
+        "patterns": [
+            "How can I prepare for an exam?",
+            "I have an upcoming test. Can you help?",
+            "Give me tips for acing my exam",
+            "What’s the best way to study for a test?"
+        ],
+        "responses": [
+            "Start reviewing your notes early and focus on key concepts. Practice old exam papers!",
+            "Make a revision schedule and stick to it. Test yourself on past topics.",
+            "Break down your study material into smaller chunks and tackle them one by one.",
+            "Make sure to take care of your health—sleep well, eat right, and stay hydrated during study sessions!"
+        ]
+    },
+    {
+        "tag": "feedback",
+        "patterns": [
+            "How am I doing?",
+            "Can I give feedback?",
+            "I have feedback for you",
+            "Do you take feedback?"
+        ],
+        "responses": [
+            "I’d love to hear your feedback! Please let me know how I can improve.",
+            "I’m always open to feedback! Please share your thoughts.",
+            "Feedback is always welcome. What do you think?",
+            "Your feedback helps me improve! How can I assist you better?"
+        ]
+    },
+    {
+        "tag": "contact",
+        "patterns": [
+            "How can I contact you?",
+            "Is there a way to reach you?",
+            "Can I talk to a human?",
+            "Can I send you a message?"
+        ],
+        "responses": [
+            "You can chat with me anytime here! If you need to reach a human, I can direct you to the support team.",
+            "I'm here to help you anytime. If you need a human, I can assist you with that.",
+            "Feel free to reach out to me whenever you need assistance, or I can help you get in touch with someone!"
+        ]
+    }
+]
